@@ -8,4 +8,5 @@ Android rootkit and adb shell
 ~ Remove passcode (emergency purposes only)<br />
 ~ Unlock bootlander<br />
 ~ Flash recovery<br />
+<br />
 <img src='screen122913.png' />
