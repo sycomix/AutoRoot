@@ -1,6 +1,4 @@
 # AutoRoot
-Android rootkit and adb shell
-<br />
 ~ ADB shell<br />
 ~ Device connection<br />
 ~ Backup data<br />
