@@ -1,4 +1,5 @@
 # AutoRoot
+<img src='https://img.shields.io/badge/Root-Keep calm and root your phone-green'><br />
 ~ ADB shell<br />
 ~ Device connection<br />
 ~ Backup data<br />
