@@ -7,5 +7,6 @@
 ~ Remove passcode (emergency purposes only)<br />
 ~ Unlock bootlander<br />
 ~ Flash recovery<br />
+<i>Todo: apk reverse engineering commands</i>
 <br />
 <img src='screen122913.png' />
